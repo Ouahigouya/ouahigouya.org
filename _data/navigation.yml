@@ -1,0 +1,42 @@
+# main links
+main:
+  - title: Onboard
+  - title: About
+    children:
+      - title: "Legal"
+        url: /external
+      - title: "Governance"
+        url: /internal
+      - title: "Dignity"
+        url: /dignity
+
+
+home:
+  - title: Community
+    url: /
+    children:
+      - title: Northern Thailand Veterinary Association
+        url: /
+      - title: Tourism Incident Resolution
+        url: /
+      - title: Formal Process Negotiation
+        url: /
+      - title: Global Federation of Notaries
+        url: /
+      - title: Visa Application Facilitations
+        url: /
+  - title: Sofware Components
+    url: /
+    children:
+      - title: Non Violent Communication Suites
+        url: /
+      - title: Process Execution Fraemwork
+        url: /
+      - title: Government Process Intake
+        url: /
+      - title: Remote Verification
+        url: /
+      - title: Notary Services Engine
+        url: /
+      - title: Qualified Membership Engine
+        url: /
