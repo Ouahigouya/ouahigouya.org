@@ -1,2 +1,2 @@
 # ouyahigouya.org
-Orgniazational Website
+Oragnizational Website
