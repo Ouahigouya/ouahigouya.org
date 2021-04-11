@@ -283,47 +283,14 @@ compress_html:
     envs: development
 
 collections:
-   intro:
-      output: true
-      permalink:  /:collection/:path/
-      sort_by: COMMIT_TIMESTAMP
-   index:
-      output: true
-      permalink:  /:collection/:path/
-      sort_by: COMMIT_TIMESTAMP
+#   index:
+#      output: true
+#      permalink:  /:collection/:path/
+#      sort_by: COMMIT_TIMESTAMP
 collections_dir: collections/
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: specs
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-      sidebar:
-        nav: "dnav"
-  - scope:
-      path: ""
-      type: intro
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      layout: collection
-      sidebar:
-        - title: "Title"
-          image: http://placehold.it/350x250
-          image_alt: "image"
-          text: "Some text here."
-        - title: "Another Title"
-          text: "More text here."
-          nav: history
   # _posts
   - scope:
       path: ""
