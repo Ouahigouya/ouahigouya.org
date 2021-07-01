@@ -6,19 +6,46 @@ classes: wide
 title: About the Organization
 ---
 
-[Ouahigouya LLC](./llc) provides boutique software solutions and custom
-partnerships addressing global identity, credential, and trust challenges.
-These solutions are based upon the [Ouahigouya Core](./core) set of technologies.
-The [Core](./core) uses [Iiolonioro Blueprints](./io/blueprints) to implement
-[ToIP](http://trustoverip.org) inspired trust ecosystems.
-Trust Ecosystems running on the [Ouahigouya Core](./core) improve
-the operation of small scale, limited scope, mature, and socially critical
-information exchanges.
-Such Trust Ecosystems are governed by a document authored by a community of
-* [Trade Associations](./glossary#trade-association),
-* [Jurisdiction Representatives](./glossary#jurisdiction-representative),
-* [Registered Service Providers](/glossary#registered-service-provider)
+[Ouahigouya LLC](./llc) provides boutique software solutions and
+[custom partnerships](./portfolio) addressing global
+[identity](./glossary#identity), [credential](./glossary#credential),
+and [trust](./glossary#trust) challenges.  Our solutions are
+custom implementations of the [Ouahigouya Core](./core)
+technology stack.  [Ouahigouya Core](./core) is based upon
+[Iiolonioro Blueprints](./io/blueprints), a process specification
+for generating [ToIP](http://trustoverip.org) inspired
+[Trust Ecosystems](./glossary#trust-ecosystems).  Our boutique
+solutions realize a
+[Dignified Data Exchange](./glossary#dignified-data-exchange)
+using [Partner Platforms](./partner),
+[Open Source Projects](./foss), and [Open Standards](./standards)
+as appropriate to each ecosystem.
+
+Participants Trust Ecosystems are governed by a document authored by a community of
+  * [Trade Associations](./glossary#trade-association),
+  * [Jurisdiction Representatives](./glossary#jurisdiction-representative),
+  * [Registered Service Providers](/glossary#registered-service-provider)
 and any other relevant organizations or individuals.
+
+Each [Trust Ecosystems](./glossary#trust-ecosystems) is implemented
+as a transparent legal entity
+the [Ouahigouya Core](./core) improve
+the operation of information exchanges which are
+  * small in scale (<= 100's of entities)
+  * economically mature (are currently functioning)
+  * limited in scope (<= 1000 credential types)
+  * pragmatically governed (usually by trade or related cooperative
+    associations)
+
+
+Ecosystem participants realize improvements as
+  * reduced time and higher confidence in decisions
+  * improved data transfer accuracy
+  * reduced liability
+  * improved forecasting accuracy
+  * new revenue streams
+
+
 
 
 [Ouahigouya](./llc)'s' inter-organization data exchange technology respects
