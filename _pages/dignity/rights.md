@@ -3,13 +3,13 @@ layout: simple
 author_profile: false
 permalink: /dignity/authority
 classes: wide
-title: Digital Dignity - Respect for Digital Authority
+title: Digital Dignity - Respect for Digital Human Rights
 ---
 
-## X.509
+## UDDI
 
-## PGP
+## Rights Con
 
-## Implicit Implementation
+## GDPR
 
-## Blockchains
+## Notion Database of privacy law
