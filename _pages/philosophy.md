@@ -1,56 +1,72 @@
 ---
 layout: simple
 author_profile: false
-permalink: /
+permalink: /philosophy
 classes: wide
-title: About the Organization
+title: Solution Philosophy
 ---
 
 [Ouahigouya LLC](./llc) provides boutique software solutions via
-[custom partnerships](./portfolio) which
-[incorporate](./glossary#incorporating)
+[custom partnerships](./portfolio) which utilize
+[incorporated](./glossary#incorporating)
 [Dignified Data Exchanges (DDE)](./glossary#dignified-data-exchange)
 to solve
 [identity](./glossary#identity), [credential](./glossary#credential),
 and [trust](./glossary#trust) challenges.
 
+The incorporated DDE manages a deployment of the
+[Ouahigouya Core](./core), which includes [Partner Platforms](./partner),
+[Open Source Projects](./foss), [Open Standards](./standards),
+and other services required to meet the service level
+agreement (SLA) defined in the incorporated DDE's operating agreement.
 
-[Dignified Data Exchanges (DDE)](./glossary#dignified-data-exchange)
-are managed qualified community utilities available to
-signatories of the governance framework.  The [Ouahigouya Core](./core)
-leverages [Partner Platforms](./partner), [Open Source Projects](./foss),
-[Open Standards](./standards), and other components as required to
-* commit the governance framework to [Digital Dignity](./dignity),
-  a code of conduct, which is based on the following principles:
-  * [Respect for Existng Digital Authority](./dignity/respect)
-  * [Respect for Digital Human Rights](./dignity/rights)
-  * [Respect for Jurisdictional Requirements](./dignity/jurisdiction)
-  * [Verifiable Compliance with a Digital Code of Conduct and Adjucation Process](./dignity/judiciary)
-  * [Execution of Transparent Democratic Self Governance](./dignity/governance)
-* governance engine: supports the active governance agreement, consent, and voting history using a
-  cryptographically verifiable version control system, with issue discussion
-  and resolution tools, and natively supports well known best practices to manage
-  forward progress of the legislation as described by the
-  [Link to ToIP Resource on meta-model](http://find-good-reference).
-* provides operational services, which are configured according to rules
-  defined in the governance framework.  These services include
-    - did registration
-    - did resolution
-    - verifiable credential issuance
-    - verifiabie credential verification
-    - institutional credential storage (organizational cloud wallets) supporting
-      verifiable presentations
-    - external user interface library (tangibility)
-    - qualified member directory services
-    - audit ready transactions
-    - voluntary credential marketplace
-    - implementation of a json-ld schema registry
-    - implementation of the governance engine
-  and are realized with a common api that supports configuration and transactions
-  based
+The DDE thus connects the jurisdiction of an SLA and fully defines
+how the SLA's operational commitments translate into legal consequences,
+legal liability, financial costs, and financial rewards.
+
+The DDE stakeholders typically include a community of
+  * [Trade Associations](./glossary#trade-association),
+  * [Jurisdiction Representatives](./glossary#jurisdiction-representative),
+  * [Registered Service Providers](/glossary#registered-service-provider)
+
+and any other relevant organizations, individuals, or property.
+
+The DDE's use of the [Ouahigouya Core](./core) defines a  the
+world with a neutral cloud service which enforces data access
+and exchange according to a [ToIP]()
+inspired governance framework, which is defined and managed by
+the community of signatories to the
 
 
+  DDEs define roles, levels of
+assurance, degrees of acceptable proof, conditions of consent,
+and other policies - for small multi-organization pain points
+and domains currently dominated by PDF and printed processess.
 
+
+DDEs provide reporting mechanisms to monitor
+  * documented compliance with regulations
+  * sensitivity to local regulations, cultures, and customs.
+  * alternative governance for special actors
+
+The  provides a suite of services for the members of the DDE.
+
+
+
+
+
+Ouahigouya Trust Ecosystems are governed by legislation which is modeled
+after the Trust over IP Foundation's Metamodel, with additional support
+to ensure data exchange always respects applicable digital rights, data
+laws, and jurisdiction obligations -- all while maximizing the sovereignty
+and digital capabilities of all participants, whether the
+[signatory](./glossary#signatory) is a
+[government office](./glossary#institution),
+[private organization](./glossary#organization),
+[managed popuplations](./glossary#managed-populations),
+[property](./glossary#property),
+or, most importantly,
+[self sovereign individual](./glossary#self-sovereign-individual).
 
 
 Ouahigouya's unique technology uses well established

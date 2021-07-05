@@ -6,51 +6,34 @@ classes: wide
 title: About the Organization
 ---
 
-[Ouahigouya LLC](./llc) provides boutique software solutions via
-[custom partnerships](./portfolio) which
-[incorporate](./glossary#incorporating)
-[Dignified Data Exchanges (DDE)](./glossary#dignified-data-exchange)
-to solve
+[Ouahigouya LLC](./llc) provides boutique software solutions and
+[custom partnerships](./portfolio) addressing global
 [identity](./glossary#identity), [credential](./glossary#credential),
-and [trust](./glossary#trust) challenges.
+and [trust](./glossary#trust) challenges.  Our solutions are
+custom implementations of the [Ouahigouya Core](./core)
+technology stack.  [Ouahigouya Core](./core) is based upon
+[Iiolonioro Blueprints](./io/blueprints), a process specification
+for generating [ToIP](http://trustoverip.org) inspired
+[Trust Ecosystems](./glossary#trust-ecosystems).  Our boutique
+solutions
+deploy [Partner Platforms](./partner),
+[Open Source Projects](./foss), and [Open Standards](./standards)
+as appropriate to realize industry and problem specific
+[Dignified Data Exchanges](./glossary#dignified-data-exchange).
 
 
-[Dignified Data Exchanges (DDE)](./glossary#dignified-data-exchange)
-are managed qualified community utilities available to
-signatories of the governance framework.  The [Ouahigouya Core](./core)
-leverages [Partner Platforms](./partner), [Open Source Projects](./foss),
-[Open Standards](./standards), and other components as required to
-* commit the governance framework to [Digital Dignity](./dignity),
-  a code of conduct, which is based on the following principles:
-  * [Respect for Existng Digital Authority](./dignity/respect)
-  * [Respect for Digital Human Rights](./dignity/rights)
-  * [Respect for Jurisdictional Requirements](./dignity/jurisdiction)
-  * [Verifiable Compliance with a Digital Code of Conduct and Adjucation Process](./dignity/judiciary)
-  * [Execution of Transparent Democratic Self Governance](./dignity/governance)
-* governance engine: supports the active governance agreement, consent, and voting history using a
-  cryptographically verifiable version control system, with issue discussion
-  and resolution tools, and natively supports well known best practices to manage
-  forward progress of the legislation as described by the
-  [Link to ToIP Resource on meta-model](http://find-good-reference).
-* provides operational services, which are configured according to rules
-  defined in the governance framework.  These services include
-    - did registration
-    - did resolution
-    - verifiable credential issuance
-    - verifiabie credential verification
-    - institutional credential storage (organizational cloud wallets) supporting
-      verifiable presentations
-    - external user interface library (tangibility)
-    - qualified member directory services
-    - audit ready transactions
-    - voluntary credential marketplace
-    - implementation of a json-ld schema registry
-    - implementation of the governance engine
-  and are realized with a common api that supports configuration and transactions
-  based
-
-
-
+Ouahigouya Trust Ecosystems are governed by legislation which is modeled
+after the Trust over IP Foundation's Metamodel, with additional support
+to ensure data exchange always respects applicable digital rights, data
+laws, and jurisdiction obligations -- all while maximizing the sovereignty
+and digital capabilities of all participants, whether the
+[signatory](./glossary#signatory) is a
+[government office](./glossary#institution),
+[private organization](./glossary#organization),
+[managed popuplations](./glossary#managed-populations),
+[property](./glossary#property),
+or, most importantly,
+[self sovereign individual](./glossary#self-sovereign-individual).
 
 
 Ouahigouya's unique technology uses well established
@@ -63,6 +46,11 @@ The governance framework, or legislation, which defines a
 [Dignified Data Exchange](./glossary#dignified-data-exchange),
 
  and actively maintained by the
+community using  authored by a community of
+  * [Trade Associations](./glossary#trade-association),
+  * [Jurisdiction Representatives](./glossary#jurisdiction-representative),
+  * [Registered Service Providers](/glossary#registered-service-provider)
+and any other relevant organizations or individuals.
 
 Each [Trust Ecosystems](./glossary#trust-ecosystems) is implemented
 as a transparent legal entity
