@@ -1,9 +1,9 @@
 ---
 layout: simple
 author_profile: false
-permalink: /engage
+permalink: /engage/contact
 classes: wide
-title: Engage Ouahigouya Organization
+title: Contact
 ---
 
 ## [FAQ](/engage/faq)
@@ -26,7 +26,7 @@ Scan this QR code to kick off an active management session with the
 api - where you can manage, in real time, a new, tracked, full featured
 session (Zoom calls, calendar, issue tracking, tasking, etc.)
 
-<qr-code />
+<qr-code>
 
 
 ## Become a member

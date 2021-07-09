@@ -1,7 +1,7 @@
 ---
 layout: simple
 author_profile: false
-permalink: /dignity/authority
+permalink: /io/dignity/authority
 classes: wide
 title: Digital Dignity - Respect for Digital Authority
 ---

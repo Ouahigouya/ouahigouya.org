@@ -2,15 +2,8 @@
 main:
   - title: Engage
     url: /engage
-
-  - title: Learn
-    children:
-      - title: "Legal"
-        url: /external
-      - title: "Governance"
-        url: /internal
-      - title: "Dignity"
-        url: /dignity
+  - title: Core
+    url: /core
 
 
 home:

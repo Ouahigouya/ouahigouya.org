@@ -294,7 +294,6 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
     values:
       layout: single
       author_profile: true
@@ -304,3 +303,6 @@ defaults:
       related: true
       sidebar:
         nav: "dnav"
+      docurl:
+        - website: http://localhost:4000/
+        - official-business-record: http://localhost:4001/

@@ -1,7 +1,7 @@
 ---
 layout: simple
 author_profile: false
-permalink: /dignity
+permalink: /io/dignity
 classes: wide
 title: Digital Dignity
 ---

@@ -1,7 +1,7 @@
 ---
 layout: simple
 author_profile: false
-permalink: /core
+permalink: /io/blueprints
 classes: wide
 title: Ouahigouya Core Components
 ---
